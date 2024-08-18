@@ -1,0 +1,4 @@
+.idea
+build
+lib/*.a
+micropython-modules/microlite/tflm
